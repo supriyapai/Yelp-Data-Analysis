@@ -1,0 +1,491 @@
+DJs	3.5
+Bars	3.6256410256410256
+Beer	3.9146341463414633
+Food	3.930357142857143
+Golf	4.25
+Gyms	4.0
+Mags	3.8313253012048194
+Pets	3.6451612903225805
+Pubs	3.526243093922652
+Rugs	4.0
+Soup	4.03125
+Thai	3.8229166666666665
+Used	3.9444444444444446
+Yoga	4.142857142857143
+Zoos	4.0
+Adult	3.5555555555555554
+Bikes	3.6875
+Books	3.8313253012048194
+Buses	4.0
+Cafes	4.022012578616352
+Delis	4.0285714285714285
+Greek	3.9
+Halal	3.888888888888889
+Irish	3.75
+Parks	4.25
+Pizza	3.6492537313432836
+Ramen	3.6666666666666665
+Salad	4.166666666666667
+Taxis	3.4285714285714284
+Tires	2.875
+Tours	4.057142857142857
+Vegan	4.136363636363637
+Afghan	4.0
+Bagels	3.8181818181818183
+Basque	3.4
+Bridal	3.85
+Choirs	4.25
+Cinema	3.7
+Diners	4.035714285714286
+Donuts	4.0
+French	4.120689655172414
+German	3.5
+Hiking	4.666666666666667
+Hotels	3.7167832167832167
+Indian	3.8865546218487395
+Korean	3.9375
+Movers	3.25
+Polish	4.125
+Saunas	3.8333333333333335
+Skiing	4.0
+Soccer	3.7
+Tattoo	4.40625
+Tennis	4.0
+Waxing	4.05
+African	4.2272727272727275
+Arcades	3.875
+Barbers	3.888888888888889
+Beaches	3.5
+Belgian	4.25
+Bistros	3.782608695652174
+Boating	4.0
+Bowling	3.3
+British	3.8405405405405406
+Buffets	3.7083333333333335
+Burgers	3.5925925925925926
+Butcher	4.166666666666667
+Casinos	3.5
+Castles	4.0
+Chinese	3.6021505376344085
+Dim Sum	3.7
+Doctors	3.8
+Falafel	4.0
+Fashion	3.657587548638132
+Flowers	4.5
+Framing	4.333333333333333
+Grocery	3.6823529411764704
+Hostels	3.4722222222222223
+Italian	3.69205298013245
+Jewelry	3.8214285714285716
+Karaoke	3.5
+Lawyers	2.8333333333333335
+Lounges	3.823529411764706
+Massage	4.151515151515151
+Mexican	3.640625
+Museums	4.068181818181818
+Noodles	3.5
+Parking	3.625
+Pilates	4.5
+Roofing	4.333333333333333
+Russian	4.0
+Seafood	4.046875
+Spanish	3.8947368421052633
+Tai Chi	3.5
+Tanning	3.642857142857143
+Tex-Mex	3.7
+Turkish	3.7115384615384617
+Waffles	4.25
+Watches	4.0
+Airlines	4.0
+Airports	3.3333333333333335
+Antiques	4.125
+Bakeries	4.0397727272727275
+Barbeque	4.035714285714286
+Beer Bar	4.0
+Bicycles	5.0
+Car Wash	2.875
+Caterers	4.230769230769231
+Churches	4.277777777777778
+Climbing	4.25
+Costumes	3.75
+Cupcakes	4.666666666666667
+Day Spas	4.0227272727272725
+Dentists	3.730769230769231
+Desserts	4.121951219512195
+Filipino	4.0
+Flooring	3.5
+Florists	4.375
+Friterie	4.5
+Gay Bars	3.75
+Handyman	5.0
+Hot Dogs	3.5
+Japanese	3.71875
+Lingerie	3.642857142857143
+Macarons	4.5
+Moroccan	3.1666666666666665
+Painters	4.0
+Piercing	3.9166666666666665
+Plumbing	4.0
+Scottish	4.102941176470588
+Shopping	3.774580335731415
+Swimwear	3.3333333333333335
+Szechuan	4.0
+Trainers	4.375
+Uniforms	2.5
+Wineries	3.888888888888889
+Aquariums	3.5
+Argentine	3.75
+Brazilian	3.8
+Breweries	4.05
+Bus Tours	3.6666666666666665
+Cafeteria	3.25
+Cantonese	3.9
+Caribbean	3.5
+Carpeting	3.75
+Computers	3.5
+Creperies	4.0
+Dive Bars	3.125
+Dog Parks	4.5
+Education	4.095238095238095
+Engraving	4.5
+Ethiopian	4.0
+Fast Food	3.7217391304347824
+Festivals	4.033333333333333
+Hospitals	4.142857142857143
+Libraries	4.0
+Malaysian	3.875
+Mongolian	4.0
+Musicians	4.5
+Nightlife	3.606811145510836
+Paintball	5.0
+Pakistani	3.803030303030303
+Skin Care	4.416666666666667
+Soul Food	3.75
+Surf Shop	4.0
+Taiwanese	4.0
+Tea Rooms	4.066666666666666
+Tiki Bars	4.0
+Wine Bars	3.763157894736842
+Apartments	4.0
+Appliances	3.25
+Automotive	3.269230769230769
+Beer Tours	4.5
+Boat Tours	4.0
+Body Shops	4.5
+Bookstores	3.9404761904761907
+Brasseries	3.8484848484848486
+Bubble Tea	4.125
+Car Rental	2.566666666666667
+Carpenters	4.0
+Drugstores	3.739130434782609
+Food Court	3.3333333333333335
+Food Tours	5.0
+Gastropubs	3.616883116883117
+Gift Shops	3.973684210526316
+Home Decor	4.045454545454546
+Laundromat	4.166666666666667
+Mass Media	3.6875
+Meat Shops	4.423076923076923
+Oncologist	4.0
+Pawn Shops	3.0
+Pet Stores	3.642857142857143
+Pool Halls	3.6666666666666665
+Portuguese	3.75
+Sandwiches	3.9491525423728815
+Smokehouse	4.5
+Sushi Bars	3.8043478260869565
+Tapas Bars	3.9166666666666665
+Toy Stores	3.823529411764706
+Urologists	4.0
+Vape Shops	2.5
+Vegetarian	3.975
+Vietnamese	4.166666666666667
+Accessories	3.6645569620253164
+Active Life	3.961206896551724
+Acupuncture	4.7
+Art Schools	3.5
+Auto Repair	3.4166666666666665
+Bangladeshi	3.9375
+Bike Repair	5.0
+Campgrounds	4.0
+Car Dealers	2.1
+Comic Books	4.1
+Contractors	4.333333333333333
+Dance Clubs	3.122448979591837
+Dog Walkers	4.5
+Electronics	3.5961538461538463
+Ethnic Food	4.078947368421052
+Food Trucks	4.5
+Gluten-Free	4.05
+Hair Salons	3.8489583333333335
+Hobby Shops	4.076923076923077
+Nail Salons	3.7205882352941178
+Pet Sitting	4.25
+Playgrounds	3.75
+Podiatrists	4.5
+Print Media	3.5833333333333335
+Race Tracks	4.5
+Real Estate	3.0
+Reflexology	4.75
+Restaurants	3.813812858052196
+Shoe Repair	3.95
+Shoe Stores	3.546875
+Skate Shops	3.5
+Ski Resorts	4.0
+Sports Bars	3.5
+Sports Wear	3.4545454545454546
+Steakhouses	4.052631578947368
+Yelp Events	4.5
+Art Supplies	4.071428571428571
+Asian Fusion	3.6666666666666665
+Beer Gardens	3.5
+Bike Rentals	4.0
+Candy Stores	4.066666666666666
+Cheese Shops	4.428571428571429
+Chicken Shop	4.5
+Coffee & Tea	3.9080188679245285
+Comedy Clubs	3.625
+Delicatessen	4.342105263157895
+Distilleries	4.5
+Dry Cleaning	2.25
+Electricians	3.6666666666666665
+Fish & Chips	3.6634615384615383
+Gas Stations	3.5
+Guest Houses	4.388888888888889
+Hair Removal	3.8125
+Jazz & Blues	4.166666666666667
+Local Flavor	3.9554455445544554
+Medical Spas	4.125
+Music & DVDs	3.840909090909091
+Music Venues	3.8372093023255816
+Optometrists	4.0
+Outdoor Gear	3.8076923076923075
+Pet Boarding	3.5
+Pet Groomers	3.9
+Pet Services	3.875
+Piano Stores	4.0
+Post Offices	3.2142857142857144
+Scandinavian	4.0
+Social Clubs	4.666666666666667
+Sports Clubs	3.8125
+Watch Repair	3.9
+Whiskey Bars	4.214285714285714
+Art Galleries	4.257575757575758
+Arts & Crafts	3.954022988505747
+Beauty & Spas	3.9426605504587156
+Boat Charters	4.25
+Candle Stores	4.0
+Chicken Wings	3.642857142857143
+Chiropractors	4.666666666666667
+Cocktail Bars	3.895348837209302
+Concept Shops	4.5
+Country Clubs	4.0
+Dance Schools	4.5
+Dance Studios	3.25
+Fabric Stores	4.166666666666667
+Guitar Stores	4.0
+Hair Stylists	4.035714285714286
+Home & Garden	3.75
+Home Services	3.4328358208955225
+Imported Food	4.041666666666667
+Leather Goods	3.25
+Live/Raw Food	4.0
+Market Stalls	3.0
+Mediterranean	3.892857142857143
+Mobile Phones	3.3461538461538463
+Music & Video	3.8313253012048194
+Nutritionists	4.25
+Orthodontists	3.5
+Outlet Stores	3.5
+Photographers	5.0
+Rock Climbing	4.5
+Skating Rinks	4.5
+Spray Tanning	2.0
+Thrift Stores	3.9705882352941178
+Tobacco Shops	4.0
+Travel Agents	4.25
+Veterinarians	3.4375
+Vinyl Records	4.1923076923076925
+Walking Tours	3.8333333333333335
+American (New)	3.638888888888889
+Auto Detailing	4.5
+Canadian (New)	4.5
+Champagne Bars	3.7
+Dermatologists	3.75
+Discount Store	3.2
+Farmers Market	4.357142857142857
+Graphic Design	4.0
+Haunted Houses	2.5
+Health Markets	3.9642857142857144
+Internet Cafes	3.6666666666666665
+Kitchen & Bath	3.375
+Latin American	3.6666666666666665
+Local Services	3.794392523364486
+Makeup Artists	5.0
+Maternity Wear	4.5
+Men's Clothing	3.5873015873015874
+Middle Eastern	3.966666666666667
+Milkshake Bars	4.0
+Opera & Ballet	4.0
+Organic Stores	4.166666666666667
+Party Supplies	4.25
+Souvenir Shops	3.5833333333333335
+Specialty Food	4.168181818181818
+Spiritual Shop	4.5
+Sporting Goods	3.7058823529411766
+Street Vendors	4.045454545454546
+Swimming Pools	3.7916666666666665
+Tattoo Removal	3.5
+Train Stations	3.3333333333333335
+Transportation	3.25
+Wine & Spirits	3.9146341463414633
+Adult Education	3.6666666666666665
+Airport Lounges	4.0
+Amusement Parks	4.0
+Animal Shelters	3.625
+Bed & Breakfast	4.4375
+Clothing Rental	1.5
+Cultural Center	4.25
+Driving Schools	5.0
+Eyelash Service	3.875
+Family Practice	3.4166666666666665
+Flowers & Gifts	3.9274193548387095
+Hair Extensions	3.25
+Hardware Stores	3.9444444444444446
+Hotels & Travel	3.683206106870229
+Interior Design	4.5
+Kids Activities	3.1666666666666665
+Leisure Centers	4.026315789473684
+Massage Therapy	4.75
+Medical Centers	3.4
+Modern European	4.027027027027027
+Performing Arts	4.048387096774194
+Persian/Iranian	4.0
+Seafood Markets	4.041666666666667
+Shades & Blinds	4.5
+Sports Medicine	4.5
+Tasting Classes	4.5
+Travel Services	3.6666666666666665
+Airport Shuttles	3.9
+Bespoke Clothing	4.0
+Brewing Supplies	4.5
+Eastern European	4.5
+Fruits & Veggies	4.136363636363637
+Furniture Stores	3.5
+Health & Medical	3.9216867469879517
+Historical Tours	3.5
+Horseback Riding	4.5
+Laundry Services	3.8333333333333335
+Office Equipment	3.142857142857143
+Permanent Makeup	5.0
+Physical Therapy	4.4
+Shipping Centers	3.75
+Shopping Centers	3.235294117647059
+Tutoring Centers	4.5
+Vacation Rentals	4.5
+Wedding Planning	3.8333333333333335
+Wholesale Stores	4.0
+Women's Clothing	3.6666666666666665
+Art Space Rentals	4.0
+Botanical Gardens	4.5
+Christmas Markets	3.5
+Coffee Roasteries	4.0
+Cosmetic Dentists	3.625
+Currency Exchange	4.0
+Department Stores	3.5344827586206895
+Event Photography	5.0
+General Dentistry	3.75
+Keys & Locksmiths	4.1
+Knitting Supplies	4.25
+Personal Shopping	4.0
+Printing Services	3.35
+Special Education	4.5
+Specialty Schools	4.277777777777778
+Stadiums & Arenas	3.875
+Video Game Stores	4.0
+Addiction Medicine	4.5
+Breakfast & Brunch	3.941860465116279
+Cards & Stationery	3.84375
+Convenience Stores	3.453125
+Electronics Repair	4.0
+Financial Services	3.0714285714285716
+General Litigation	3.0
+Himalayan/Nepalese	4.1875
+Laser Hair Removal	3.8
+Real Estate Agents	3.0
+Recreation Centers	3.9705882352941178
+Tapas/Small Plates	3.892857142857143
+Telecommunications	3.0
+University Housing	4.25
+Adult Entertainment	2.5
+Appliances & Repair	3.5
+Carpet Installation	3.5
+Ceremonial Clothing	3.5
+Children's Clothing	3.7666666666666666
+Do-It-Yourself Food	4.0
+Eyewear & Opticians	3.7222222222222223
+Mobile Phone Repair	3.8333333333333335
+Property Management	2.625
+Session Photography	5.0
+Smog Check Stations	3.125
+Arts & Entertainment	3.997448979591837
+Chocolatiers & Shops	4.159090909090909
+Educational Services	5.0
+Occupational Therapy	2.5
+Patisserie/Cake Shop	4.0625
+Real Estate Services	2.96875
+Sewing & Alterations	3.966666666666667
+Shared Office Spaces	1.5
+Traditional Clothing	4.125
+Windows Installation	2.5
+Auto Parts & Supplies	4.0
+Baby Gear & Furniture	4.666666666666667
+Banks & Credit Unions	3.0
+Blow Dry/Out Services	4.5
+Child Care & Day Care	2.75
+Coffee & Tea Supplies	4.666666666666667
+Fitness & Instruction	3.9558823529411766
+Hypnosis/Hypnotherapy	4.5
+Naturopathic/Holistic	4.5
+Nurseries & Gardening	3.875
+Private Investigation	5.0
+Professional Services	3.75
+Public Transportation	3.0
+Ski & Snowboard Shops	4.0
+Supernatural Readings	4.5
+Venues & Event Spaces	3.7261904761904763
+Vintage & Consignment	3.9444444444444446
+American (Traditional)	3.4651162790697674
+Dry Cleaning & Laundry	3.8333333333333335
+Food Delivery Services	4.147058823529412
+Juice Bars & Smoothies	3.9423076923076925
+Junk Removal & Hauling	4.0
+Newspapers & Magazines	3.533333333333333
+Osteopathic Physicians	5.0
+Party & Event Planning	4.75
+Bike Repair/Maintenance	4.375
+Colleges & Universities	3.869565217391304
+Environmental Abatement	5.0
+Laser Eye Surgery/Lasik	3.0
+Religious Organizations	4.2272727272727275
+Cosmetics & Beauty Supply	3.9305555555555554
+Event Planning & Services	3.79
+Home Theatre Installation	3.5
+Ice Cream & Frozen Yogurt	4.052631578947368
+Hunting & Fishing Supplies	3.0
+Videos & Video Game Rental	3.642857142857143
+Check Cashing/Pay-day Loans	3.0
+Musical Instrument Services	4.0
+Community Service/Non-Profit	3.8793103448275863
+Couriers & Delivery Services	3.5
+Public Services & Government	3.9178082191780823
+Television Service Providers	3.0
+Traditional Chinese Medicine	5.0
+Funeral Services & Cemeteries	4.5
+High Fidelity Audio Equipment	3.8333333333333335
+IT Services & Computer Repair	3.78125
+Lighting Fixtures & Equipment	4.0
+Middle Schools & High Schools	4.5
+Photography Stores & Services	3.5
+Musical Instruments & Teachers	4.09375
+Landmarks & Historical Buildings	4.136363636363637
