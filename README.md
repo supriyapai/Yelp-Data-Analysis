@@ -1,6 +1,6 @@
 # Yelp-Data-Analysis
 
-Specifically analyse to the following queries:
+Specifically analyse the following queries:
 
 1. Summarize the number of unique reviewers by US city, by business category. That is, count the unique reviewers by city, by business.
 
